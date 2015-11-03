@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/jordicalduchnpaw/Documents/Libraries/51degrees_Java_3.1.8.4/dist/51Degrees.detection.core.jar"/>
+	<classpathentry kind="lib" path="/home/jordicalduchnpaw/Documents/Libraries/JARs/opencsv-3.5.jar"/>
+	<classpathentry kind="lib" path="/home/jordicalduchnpaw/Documents/Libraries/niceTools/lib/UADetector/uadetector-core-0.9.22.jar"/>
+	<classpathentry kind="lib" path="/home/jordicalduchnpaw/Documents/Libraries/niceTools/lib/UADetector/uadetector-resources-2014.10.jar"/>
+	<classpathentry kind="lib" path="/home/jordicalduchnpaw/Documents/Libraries/niceTools/lib/UADetector/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="/home/jordicalduchnpaw/Documents/Libraries/niceTools/lib/UADetector/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/jordicalduchnpaw/Documents/Libraries/niceTools/lib/UADetector/jsr305-2.0.3.jar"/>
+	<classpathentry kind="lib" path="/home/jordicalduchnpaw/Documents/Libraries/niceTools/lib/UADetector/quality-check-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/jordicalduchnpaw/Documents/Libraries/JARs/commons-lang3-3.4/commons-lang3-3.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
